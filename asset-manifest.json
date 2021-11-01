@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Practica-4-Moviles/static/css/main.cbf57d32.chunk.css",
+    "main.js": "/Practica-4-Moviles/static/js/main.eec95fb8.chunk.js",
+    "main.js.map": "/Practica-4-Moviles/static/js/main.eec95fb8.chunk.js.map",
+    "runtime-main.js": "/Practica-4-Moviles/static/js/runtime-main.bd5372a3.js",
+    "runtime-main.js.map": "/Practica-4-Moviles/static/js/runtime-main.bd5372a3.js.map",
+    "static/js/2.0da98f8b.chunk.js": "/Practica-4-Moviles/static/js/2.0da98f8b.chunk.js",
+    "static/js/2.0da98f8b.chunk.js.map": "/Practica-4-Moviles/static/js/2.0da98f8b.chunk.js.map",
+    "index.html": "/Practica-4-Moviles/index.html",
+    "static/css/main.cbf57d32.chunk.css.map": "/Practica-4-Moviles/static/css/main.cbf57d32.chunk.css.map",
+    "static/js/2.0da98f8b.chunk.js.LICENSE.txt": "/Practica-4-Moviles/static/js/2.0da98f8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd5372a3.js",
+    "static/js/2.0da98f8b.chunk.js",
+    "static/css/main.cbf57d32.chunk.css",
+    "static/js/main.eec95fb8.chunk.js"
+  ]
+}
