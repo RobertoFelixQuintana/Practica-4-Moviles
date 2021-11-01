@@ -1,0 +1,8 @@
+.containerTable{
+    min-width: 50%;
+    min-height: fit-content;
+    align-items: flex-start;
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+}
